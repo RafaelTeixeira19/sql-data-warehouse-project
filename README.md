@@ -106,4 +106,4 @@ data-warehouse-project/
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-This is my project following along Bara's tutorial on youtube (https://www.youtube.com/watch?v=SSKVgrwhzus)
+This is my project following along Baraa's tutorial on youtube (https://www.youtube.com/watch?v=SSKVgrwhzus)
